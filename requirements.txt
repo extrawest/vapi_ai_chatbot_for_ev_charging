@@ -1,0 +1,39 @@
+# Core dependencies with exact versions
+fastapi==0.115.12
+pydantic==2.11.5
+pydantic-settings==2.9.1
+uvicorn==0.34.2
+
+# LangGraph and LLM dependencies
+langgraph==0.4.7
+langchain==0.3.25
+langchain-core==0.3.61
+langchain-community==0.3.24
+langchain-google-genai==2.1.4
+langchain-openai==0.3.18
+langchain-ollama==0.3.3
+langchain-groq==0.3.2
+
+# Tools
+python-dotenv==1.1.0
+requests==2.32.3
+httpx==0.27.0
+
+# UI and client interfaces
+chainlit==2.5.5
+
+# Voice interface
+vapi_server_sdk==1.5.0
+vapi_python==0.1.9
+
+# Audio processing
+pyaudio==0.2.14
+sounddevice==0.5.2
+numpy==2.2.6
+
+# Async support
+asyncio==3.4.3
+aiohttp==3.12.0
+
+# Test
+pytest==8.3.5
