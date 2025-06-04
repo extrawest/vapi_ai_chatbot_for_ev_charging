@@ -19,6 +19,36 @@ AI-powered support system for EV charging stations with LangGraph orchestration,
 - 🔧 **FastAPI Backend**: REST API with streaming support and session management (OpenAI Compatible)
 - 💾 **Singleton Services**: Persistent state management across requests
 
+## Text Chat Demo: Interactive EV Assistant in Action
+
+
+
+
+https://github.com/user-attachments/assets/172f3ada-9253-4576-b449-cd8289731dcd
+
+
+
+
+## Voice Call Demo: Hands-Free EV Charging Support
+
+
+
+
+https://github.com/user-attachments/assets/f490688e-d41b-4c48-be60-dd7285993b0f
+
+
+
+
+## Phone Assistant Demo: EV Support On The Go
+
+
+
+
+https://github.com/user-attachments/assets/7045794b-be91-4dda-89a4-1a9a62eb06cb
+
+
+
+
 ## 🚀 Quick Start
 
 ### 1. Installation
