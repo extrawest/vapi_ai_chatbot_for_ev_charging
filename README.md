@@ -197,3 +197,5 @@ This enables:
 - Progressive updates as the LLM generates responses
 - Real-time feedback during tool execution (e.g., "Checking station status...")
 - Improved user experience with immediate feedback
+
+Developed by [extrawest](https://extrawest.com/). Software development company
